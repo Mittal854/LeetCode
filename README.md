@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/Mittal854/LeetCode/tree/master/3189-find-champion-ii) |
+## Array
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
+## Hash Table
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
