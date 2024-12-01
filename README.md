@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
 ## Counting
 |  |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
