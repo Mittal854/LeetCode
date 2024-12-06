@@ -14,6 +14,7 @@ class Solution {
                 sum+=i;
                 c++;
             }
+            else if(sum>maxSum) break;
         }
         return c;
 
