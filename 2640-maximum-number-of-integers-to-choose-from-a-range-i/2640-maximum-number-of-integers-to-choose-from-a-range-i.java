@@ -13,7 +13,6 @@ class Solution {
             {
                 sum+=i;
                 c++;
-                set.add(i);
             }
         }
         return c;
