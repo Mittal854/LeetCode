@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mittal854/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Mittal854/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
