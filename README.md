@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mittal854/LeetCode/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mittal854/LeetCode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mittal854/LeetCode/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mittal854/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mittal854/LeetCode/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mittal854/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
