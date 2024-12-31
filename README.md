@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mittal854/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Mittal854/LeetCode/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mittal854/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mittal854/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mittal854/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mittal854/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Mittal854/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Mittal854/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mittal854/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
