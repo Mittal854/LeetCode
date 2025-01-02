@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mittal854/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Mittal854/LeetCode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mittal854/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Mittal854/LeetCode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mittal854/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -303,4 +305,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Mittal854/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Mittal854/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Mittal854/LeetCode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
