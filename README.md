@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Mittal854/LeetCode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Mittal854/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mittal854/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mittal854/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Mittal854/LeetCode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mittal854/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mittal854/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Mittal854/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mittal854/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -311,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Mittal854/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
