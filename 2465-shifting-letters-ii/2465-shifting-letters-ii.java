@@ -1,14 +1,16 @@
 class Solution {
     public String shiftingLetters(String s, int[][] shifts) {
-        long[] freq=new long[s.length()];
+        long[] freq=new long[s.length()+1];
         for(int[] i:shifts)
         {
             int direction=i[2];
             direction=direction==0?-1:1;
-            for(int j=i[0];j<=i[1];j++)
-            {
-                freq[j]=freq[j]+direction;
-            }
+            freq[i[0]]+=direction;
+            freq[i[1]+1]-=direction;
+        }
+        for(int i=1;i<=s.length();i++)
+        {
+            freq[i]+=freq[i-1];
         }
         String ans="";
         for(int i=0;i<s.length();i++)
