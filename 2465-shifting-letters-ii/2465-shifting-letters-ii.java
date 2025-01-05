@@ -12,7 +12,7 @@ class Solution {
         {
             freq[i]+=freq[i-1];
         }
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         for(int i=0;i<s.length();i++)
         {
             char a=s.charAt(i);
@@ -25,8 +25,8 @@ class Solution {
             {
                 a=(char)('a'+(a-'z')-1);
             }
-            ans=ans+a;
+            ans.append(a);
         }
-        return ans;
+        return ans.toString();
     }
 }
