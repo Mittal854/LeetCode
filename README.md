@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Mittal854/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mittal854/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [3189-find-champion-ii](https://github.com/Mittal854/LeetCode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mittal854/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Array
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mittal854/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mittal854/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mittal854/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mittal854/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -388,4 +391,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Mittal854/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Mittal854/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
