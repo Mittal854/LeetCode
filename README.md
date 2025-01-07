@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Mittal854/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mittal854/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mittal854/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
+| [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mittal854/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mittal854/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
