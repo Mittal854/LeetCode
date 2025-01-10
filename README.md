@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mittal854/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Mittal854/LeetCode/tree/master/0890-lemonade-change) |
+| [0952-word-subsets](https://github.com/Mittal854/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Mittal854/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Mittal854/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mittal854/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mittal854/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0952-word-subsets](https://github.com/Mittal854/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mittal854/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
+| [0952-word-subsets](https://github.com/Mittal854/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Mittal854/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
