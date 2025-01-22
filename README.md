@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mittal854/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mittal854/LeetCode/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mittal854/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0724-find-pivot-index](https://github.com/Mittal854/LeetCode/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Mittal854/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mittal854/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Mittal854/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mittal854/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
