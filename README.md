@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/Mittal854/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mittal854/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mittal854/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mittal854/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mittal854/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Mittal854/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Mittal854/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Mittal854/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Mittal854/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -187,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Mittal854/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1876-map-of-highest-peak](https://github.com/Mittal854/LeetCode/tree/master/1876-map-of-highest-peak) |
