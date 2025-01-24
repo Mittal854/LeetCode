@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mittal854/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mittal854/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Mittal854/LeetCode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Mittal854/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mittal854/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mittal854/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mittal854/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mittal854/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mittal854/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Mittal854/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
