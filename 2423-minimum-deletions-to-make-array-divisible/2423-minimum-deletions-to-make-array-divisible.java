@@ -17,23 +17,11 @@ class Solution {
     }
 
     public int minOperations(int[] nums, int[] numsDivide) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-        PriorityQueue<Integer>pq=new PriorityQueue<>();
-        for(int i:nums)
-        {
-            map.put(i,map.getOrDefault(i,0)+1);
-            if(map.get(i)<2) pq.add(i);
-        }
+        Arrays.sort(nums);
         int hcf=hcfArray(numsDivide);
-        if(hcf<pq.peek()) return -1;
-        int del=0;
-        while(!pq.isEmpty())
+        for(int i=0;i<nums.length;i++)
         {
-            int p=pq.poll();
-            if(hcf%p==0){
-                return del;
-            };
-            del+=map.get(p);
+            if(hcf%nums[i]==0) return i;
         }
         return -1;
     }
