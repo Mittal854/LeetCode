@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Mittal854/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal854/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mittal854/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mittal854/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Mittal854/LeetCode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Mittal854/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Mittal854/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mittal854/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Mittal854/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Mittal854/LeetCode/tree/master/0443-string-compression) |
 | [0952-word-subsets](https://github.com/Mittal854/LeetCode/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mittal854/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mittal854/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Mittal854/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Mittal854/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mittal854/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Mittal854/LeetCode/tree/master/0494-target-sum) |
