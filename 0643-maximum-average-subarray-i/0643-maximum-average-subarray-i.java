@@ -7,14 +7,13 @@ class Solution {
         {
             sum+=nums[i];
         }
-        average=(double)sum/k;
-        sum=average;
+        average=sum;
+        
         for(int i=k;i<n;i++)
         {
-            sum=sum*k+nums[i]-nums[i-k];
-            sum=(double)sum/k;
+            sum=sum+nums[i]-nums[i-k];
             average=Math.max(average,sum);
         }
-        return average;
+        return (double)average/k;
     }
 }
