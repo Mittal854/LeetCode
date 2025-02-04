@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/Mittal854/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Mittal854/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mittal854/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Mittal854/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Mittal854/LeetCode/tree/master/0952-word-subsets) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Mittal854/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mittal854/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mittal854/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
