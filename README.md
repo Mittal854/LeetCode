@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mittal854/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Mittal854/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mittal854/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Mittal854/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mittal854/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/Mittal854/LeetCode/tree/master/0289-game-of-life) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mittal854/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mittal854/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mittal854/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mittal854/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Mittal854/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Mittal854/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mittal854/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mittal854/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
