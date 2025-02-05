@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mittal854/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mittal854/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mittal854/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Mittal854/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mittal854/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Mittal854/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mittal854/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Mittal854/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Mittal854/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Mittal854/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
