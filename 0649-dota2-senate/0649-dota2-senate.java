@@ -1,8 +1,8 @@
 class Solution {
     public String predictPartyVictory(String senate) {
         int n=senate.length();
-        PriorityQueue<Integer>r=new PriorityQueue<>();
-        PriorityQueue<Integer>d=new PriorityQueue<>();
+        Queue<Integer>r=new LinkedList<>();
+        Queue<Integer>d=new LinkedList<>();
         for(int i=0;i<n;i++)
         {
             if(senate.charAt(i)=='R') r.add(i);
