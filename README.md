@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mittal854/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Mittal854/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/Mittal854/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Mittal854/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Mittal854/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
