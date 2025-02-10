@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Mittal854/LeetCode/tree/master/0649-dota2-senate) |
+| [0969-number-of-recent-calls](https://github.com/Mittal854/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/Mittal854/LeetCode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -733,5 +734,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Mittal854/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2434-design-a-number-container-system](https://github.com/Mittal854/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Mittal854/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
