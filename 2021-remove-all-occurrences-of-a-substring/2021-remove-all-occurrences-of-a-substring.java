@@ -5,9 +5,9 @@ class Solution {
         for(int i=0;i<s.length();i++)
         {
             ans.append(s.charAt(i));
-            while(ans.length()>=n && ans.substring(ans.length()-n).equals(part))
+            if(ans.length()>=n && ans.substring(ans.length()-n).equals(part))
             {
-                ans=ans.delete(ans.length()-n,ans.length());
+                ans.setLength(ans.length()-n);
             }
         }
         return ans.toString();
