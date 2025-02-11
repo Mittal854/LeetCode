@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mittal854/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0724-find-pivot-index](https://github.com/Mittal854/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Mittal854/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0777-toeplitz-matrix](https://github.com/Mittal854/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Mittal854/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mittal854/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Mittal854/LeetCode/tree/master/0518-coin-change-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Mittal854/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Mittal854/LeetCode/tree/master/1013-fibonacci-number) |
