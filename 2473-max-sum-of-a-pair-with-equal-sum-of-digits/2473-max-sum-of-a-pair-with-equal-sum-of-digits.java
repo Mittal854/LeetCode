@@ -12,19 +12,20 @@ class Solution {
     }
     public int maximumSum(int[] nums) {
         int n=nums.length;
-        HashMap<Integer,ArrayList<Integer>>map=new HashMap<>();
+        HashMap<Integer,PriorityQueue<Integer>>map=new HashMap<>();
         for(int num:nums)
         {
             int sum=digitsSum(num);
-            map.putIfAbsent(sum,new ArrayList<>());
+            map.putIfAbsent(sum,new PriorityQueue<>((a,b)->Integer.compare(b,a)));
             map.get(sum).add(num);
         }
         int maxS=-1;
         for(var list:map.values())
         {
             if(list.size()<2) continue;
-            Collections.sort(list);
-            int sum=list.get(list.size()-1)+list.get(list.size()-2);
+            int a=list.poll();
+            int b=list.poll();
+            int sum=a+b;
             maxS=Math.max(maxS,sum);
         }
         return maxS;
