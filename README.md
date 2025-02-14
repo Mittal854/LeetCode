@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mittal854/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mittal854/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Mittal854/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mittal854/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Mittal854/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Mittal854/LeetCode/tree/master/1585-the-kth-factor-of-n) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mittal854/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Mittal854/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mittal854/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mittal854/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Mittal854/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mittal854/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Mittal854/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -775,11 +778,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Mittal854/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Mittal854/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Mittal854/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Interactive
 |  |
 | ------- |
