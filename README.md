@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mittal854/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Mittal854/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mittal854/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Mittal854/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Mittal854/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Mittal854/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Mittal854/LeetCode/tree/master/0494-target-sum) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Mittal854/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Trie
 |  |
 | ------- |
