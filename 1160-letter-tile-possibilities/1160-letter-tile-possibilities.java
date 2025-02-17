@@ -1,9 +1,9 @@
 class Solution {
-    private HashSet<String> set;
+    private int count;
     public void helper(char[] tiles,StringBuilder ans,boolean[]used)
     {
         
-        if(ans.length()>0) set.add(ans.toString());
+        if(ans.length()>0) count++;
         for(int i=0;i<tiles.length;i++)
         {
             if(used[i] || (i>0) && tiles[i]==tiles[i-1] && !used[i-1]) continue;
@@ -19,8 +19,8 @@ class Solution {
         StringBuilder ans=new StringBuilder();
         char[] array=tiles.toCharArray();
         Arrays.sort(array);
-        set=new HashSet<>();
+        count=0;
         helper(array,ans,new boolean[array.length]);
-        return set.size();
+        return count;
     }
 }
