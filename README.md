@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mittal854/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Mittal854/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mittal854/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mittal854/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Mittal854/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mittal854/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mittal854/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mittal854/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Mittal854/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mittal854/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/Mittal854/LeetCode/tree/master/3447-clear-digits) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Mittal854/LeetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Mittal854/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Mittal854/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Mittal854/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Trie
 |  |
