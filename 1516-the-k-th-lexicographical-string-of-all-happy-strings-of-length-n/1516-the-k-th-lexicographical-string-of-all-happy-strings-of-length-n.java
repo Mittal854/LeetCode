@@ -1,27 +1,21 @@
 class Solution {
-    public void helper(StringBuilder sb,String letters,ArrayList<String>ans,int n)
-    {
-        if(sb.length()==n)
-        {
-            ans.add(sb.toString());
+    public void helper(String curr, int n, List<String> ans) {
+        if (curr.length() == n) {
+            ans.add(curr);
             return;
         }
-        for(int i=0;i<3;i++)
+        for(char c:new char[]{'a','b','c'})
         {
-            if(sb.length()==0 ||sb.charAt(sb.length()-1)!=letters.charAt(i))
+            if(curr.length()==0||curr.charAt(curr.length()-1)!=c)
             {
-                sb.append(letters.charAt(i));
-                helper(sb,letters,ans,n);
-                sb.deleteCharAt(sb.length()-1);
+                helper(curr+c,n,ans);
             }
-            
         }
     }
+
     public String getHappyString(int n, int k) {
-        ArrayList<String>ans=new ArrayList<>();
-        String letters="abc";
-        StringBuilder sb=new StringBuilder();
-        helper(sb,letters,ans,n); 
-        return ans.size()<k?"":ans.get(k-1);
+        List<String> ans = new ArrayList<>();
+        helper("", n, ans);
+        return ans.size() < k ? "" : ans.get(k - 1);
     }
 }
