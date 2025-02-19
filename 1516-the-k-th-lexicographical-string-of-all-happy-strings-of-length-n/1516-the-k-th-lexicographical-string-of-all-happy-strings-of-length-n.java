@@ -22,7 +22,6 @@ class Solution {
         String letters="abc";
         StringBuilder sb=new StringBuilder();
         helper(sb,letters,ans,n); 
-        Collections.sort(ans);
         return ans.size()<k?"":ans.get(k-1);
     }
 }
