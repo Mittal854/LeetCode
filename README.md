@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mittal854/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mittal854/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Mittal854/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Mittal854/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mittal854/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mittal854/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mittal854/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Mittal854/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/Mittal854/LeetCode/tree/master/1585-the-kth-factor-of-n) |
+| [2187-vowels-of-all-substrings](https://github.com/Mittal854/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mittal854/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Mittal854/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mittal854/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mittal854/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Mittal854/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mittal854/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2187-vowels-of-all-substrings](https://github.com/Mittal854/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Mittal854/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mittal854/LeetCode/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/Mittal854/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
