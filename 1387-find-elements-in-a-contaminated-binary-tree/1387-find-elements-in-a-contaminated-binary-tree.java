@@ -1,40 +1,31 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class FindElements {
-    HashSet<Integer> set;
-
+    HashSet<Integer>set=new HashSet<>();
     public FindElements(TreeNode root) {
-        set = new HashSet<>();
-        root.val = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()) {
-            TreeNode temp = q.poll();
-            set.add(temp.val);
-            if (temp.left != null) {
-                temp.left.val = 2 * temp.val + 1;
-                q.add(temp.left);
-            }
-            if (temp.right != null) {
-                temp.right.val = 2 * temp.val + 2;
-                q.add(temp.right);
-            }
-        }
+        tree(root,0);
     }
-
+    public void tree(TreeNode root,int val){
+        if(root==null) return;
+        root.val=val;
+        set.add(val);
+        tree(root.left,2*val+1);
+        tree(root.right,2*val+2);
+    }
+    
     public boolean find(int target) {
         return set.contains(target);
     }
