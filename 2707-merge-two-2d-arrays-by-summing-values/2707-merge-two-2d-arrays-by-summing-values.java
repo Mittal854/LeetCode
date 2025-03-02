@@ -1,24 +1,44 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-        for(int[] num:nums1)
-        {
-            map.put(num[0],map.getOrDefault(num[0],0)+num[1]);
-        }
-        for(int[] num:nums2)
-        {
-            map.put(num[0],map.getOrDefault(num[0],0)+num[1]);
-        }
-        int n=map.size();
-        int[][] ans=new int[n][2];
+        int n=nums1.length;
+        int m=nums2.length;
         int i=0;
-        for(var entry:map.entrySet())
+        int j=0;
+        ArrayList<int[]>arr=new ArrayList<>();
+        while(i<n && j<m)
         {
-            ans[i][0]=entry.getKey();
-            ans[i][1]=entry.getValue();
+            int[] a=new int[2];
+            if(nums1[i][0]==nums2[j][0])
+            {
+                a[0]=nums1[i][0];
+                a[1]=nums1[i][1]+nums2[j][1];
+                i++;
+                j++;
+            }
+            else if(nums1[i][0]<nums2[j][0])
+            {
+                a[0]=nums1[i][0];
+                a[1]=nums1[i][1];
+                i++;
+            }
+            else
+            {
+                a[0]=nums2[j][0];
+                a[1]=nums2[j][1];
+                j++;
+            }
+            arr.add(a);
+        }
+        while(i<n)
+        {
+            arr.add(nums1[i]);
             i++;
         }
-        Arrays.sort(ans,(a,b)->Integer.compare(a[0],b[0]));
-        return ans;
+        while(j<m)
+        {
+            arr.add(nums2[j]);
+            j++;
+        }
+        return arr.toArray(int[][]:: new);
     }
 }
