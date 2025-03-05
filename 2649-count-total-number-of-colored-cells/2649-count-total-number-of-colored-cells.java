@@ -1,10 +1,5 @@
 class Solution {
     public long coloredCells(int n) {
-        long ans=1;
-        for(int i=1;i<=n;i++)
-        {
-            ans+=(i-1)*4;
-        }
-        return ans;
+        return 1+(long)2*n*(n-1);
     }
 }
