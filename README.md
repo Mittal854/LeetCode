@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Mittal854/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mittal854/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Mittal854/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Mittal854/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Mittal854/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Mittal854/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mittal854/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mittal854/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Mittal854/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/Mittal854/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Mittal854/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mittal854/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
