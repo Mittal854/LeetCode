@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Mittal854/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mittal854/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Mittal854/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Mittal854/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Mittal854/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0948-sort-an-array](https://github.com/Mittal854/LeetCode/tree/master/0948-sort-an-array) |
 | [1095-two-city-scheduling](https://github.com/Mittal854/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/Mittal854/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Mittal854/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Mittal854/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Mittal854/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
