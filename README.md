@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Mittal854/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mittal854/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Mittal854/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2785-semi-ordered-permutation](https://github.com/Mittal854/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [2792-neighboring-bitwise-xor](https://github.com/Mittal854/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Mittal854/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Mittal854/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Mittal854/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mittal854/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mittal854/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2785-semi-ordered-permutation](https://github.com/Mittal854/LeetCode/tree/master/2785-semi-ordered-permutation) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mittal854/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mittal854/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Mittal854/LeetCode/tree/master/3447-clear-digits) |
