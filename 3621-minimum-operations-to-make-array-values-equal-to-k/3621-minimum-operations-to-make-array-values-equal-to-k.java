@@ -1,25 +1,16 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        int n=nums.length;
+        boolean[] contained=new boolean[101];
         for(int num:nums)
         {
             if(num<k) return -1;
+            contained[num]=true;
         }
-        Arrays.sort(nums);
-        int max=nums[n-1];
-        int operations=0;
-        for(int i=n-2;i>=0;i--)
+        int op=0;
+        for(int i=k+1;i<101;i++)
         {
-            if(nums[i]==max) continue;
-            else
-            {
-                operations++;
-                max=nums[i];
-            }
-            if(max==k) break;
+            if(contained[i]) op++;
         }
-        if(nums[0]>k) operations++;
-        return operations;
-
+        return op;
     }
 }
