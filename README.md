@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Mittal854/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Mittal854/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/Mittal854/LeetCode/tree/master/0120-triangle) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mittal854/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Mittal854/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Mittal854/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Mittal854/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mittal854/LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Mittal854/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Mittal854/LeetCode/tree/master/0130-surrounded-regions) |
 | [0289-game-of-life](https://github.com/Mittal854/LeetCode/tree/master/0289-game-of-life) |
