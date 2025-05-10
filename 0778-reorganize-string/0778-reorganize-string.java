@@ -33,7 +33,7 @@ class Solution {
             char c=p.c;
             if(ans.length()>0 && ans.charAt(ans.length()-1)==c)
             {
-                if(pq.isEmpty()) return "";
+                // if(pq.isEmpty()) return "";
                 Pair q=pq.poll();
                 pq.add(p);
                 p=q;
