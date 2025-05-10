@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mittal854/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mittal854/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Mittal854/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Mittal854/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2107-find-unique-binary-string](https://github.com/Mittal854/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Mittal854/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mittal854/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/Mittal854/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1502-construct-k-palindrome-strings](https://github.com/Mittal854/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mittal854/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Mittal854/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Mittal854/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Mittal854/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Mittal854/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
