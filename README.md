@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mittal854/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mittal854/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mittal854/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mittal854/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mittal854/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mittal854/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mittal854/LeetCode/tree/master/0057-insert-interval) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Mittal854/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Mittal854/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Mittal854/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Mittal854/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mittal854/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Mittal854/LeetCode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Mittal854/LeetCode/tree/master/0735-asteroid-collision) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Mittal854/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
