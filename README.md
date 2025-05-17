@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Mittal854/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mittal854/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Mittal854/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Mittal854/LeetCode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mittal854/LeetCode/tree/master/0118-pascals-triangle) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mittal854/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mittal854/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Mittal854/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Mittal854/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mittal854/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mittal854/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mittal854/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Mittal854/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mittal854/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mittal854/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mittal854/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mittal854/LeetCode/tree/master/0229-majority-element-ii) |
