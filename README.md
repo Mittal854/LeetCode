@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Mittal854/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mittal854/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mittal854/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mittal854/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mittal854/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Mittal854/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Mittal854/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mittal854/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mittal854/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mittal854/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/Mittal854/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Mittal854/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/Mittal854/LeetCode/tree/master/3324-split-the-array) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Mittal854/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Mittal854/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2785-semi-ordered-permutation](https://github.com/Mittal854/LeetCode/tree/master/2785-semi-ordered-permutation) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Mittal854/LeetCode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Mittal854/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Mittal854/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Mittal854/LeetCode/tree/master/3447-clear-digits) |
