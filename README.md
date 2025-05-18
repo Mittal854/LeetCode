@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Mittal854/LeetCode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Mittal854/LeetCode/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/Mittal854/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mittal854/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Mittal854/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Mittal854/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Mittal854/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Mittal854/LeetCode/tree/master/0854-making-a-large-island) |
+| [0898-transpose-matrix](https://github.com/Mittal854/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Mittal854/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Mittal854/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Mittal854/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Mittal854/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Mittal854/LeetCode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Mittal854/LeetCode/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/Mittal854/LeetCode/tree/master/0898-transpose-matrix) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Mittal854/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mittal854/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mittal854/LeetCode/tree/master/2048-build-array-from-permutation) |
