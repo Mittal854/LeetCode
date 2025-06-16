@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/Mittal854/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Mittal854/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2107-find-unique-binary-string](https://github.com/Mittal854/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Mittal854/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Mittal854/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Mittal854/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Mittal854/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
