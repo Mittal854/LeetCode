@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Mittal854/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/Mittal854/LeetCode/tree/master/0854-making-a-large-island) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Mittal854/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Mittal854/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Mittal854/LeetCode/tree/master/0898-transpose-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Mittal854/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Mittal854/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mittal854/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0808-number-of-matching-subsequences](https://github.com/Mittal854/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Mittal854/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Mittal854/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mittal854/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mittal854/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
