@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mittal854/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Mittal854/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2428-equal-row-and-column-pairs](https://github.com/Mittal854/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Mittal854/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mittal854/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Mittal854/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Mittal854/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Mittal854/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Mittal854/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mittal854/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Mittal854/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Mittal854/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mittal854/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mittal854/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Mittal854/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mittal854/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Mittal854/LeetCode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Mittal854/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2448-count-number-of-bad-pairs](https://github.com/Mittal854/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Mittal854/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Mittal854/LeetCode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Mittal854/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Mittal854/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/Mittal854/LeetCode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/Mittal854/LeetCode/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mittal854/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Mittal854/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Mittal854/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
