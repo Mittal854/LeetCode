@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mittal854/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Mittal854/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Mittal854/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mittal854/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Mittal854/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mittal854/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mittal854/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mittal854/LeetCode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Mittal854/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mittal854/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mittal854/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mittal854/LeetCode/tree/master/0322-coin-change) |
