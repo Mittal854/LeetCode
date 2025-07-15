@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Mittal854/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Mittal854/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Mittal854/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Mittal854/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Mittal854/LeetCode/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2107-find-unique-binary-string](https://github.com/Mittal854/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mittal854/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/Mittal854/LeetCode/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Mittal854/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Mittal854/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Mittal854/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Mittal854/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Mittal854/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Mittal854/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
