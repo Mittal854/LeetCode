@@ -9,23 +9,38 @@
  * }
  */
 class Solution {
-    public boolean isPalindrome(ListNode head) {
-        if(head.next==null) return true;
-        String val="";
-        ListNode temp=head;
-        while(temp!=null)
+    public ListNode reverse(ListNode head)
+    {
+        ListNode prev=null;
+        ListNode curr=head;
+        ListNode next=curr;
+        while(curr!=null)
         {
-            val=val+temp.val;
-            temp=temp.next;
+            next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
         }
-        int low=0;
-        int high=val.length()-1;
-        while(low<high)
+        return prev;
+    }
+    public boolean isPalindrome(ListNode head) {
+        if(head==null || head.next==null) return true;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null)
         {
-            if(val.charAt(low)!=val.charAt(high)) return false;
-            low++;
-            high--;
+            slow=slow.next;
+            fast=fast.next;
+            if(fast!=null) fast=fast.next;
+        }
+        slow=reverse(slow);
+        while(head!=null && slow!=null)
+        {
+            if(head.val!=slow.val) return false;
+            head=head.next;
+            slow=slow.next;
         }
         return true;
+
     }
 }
