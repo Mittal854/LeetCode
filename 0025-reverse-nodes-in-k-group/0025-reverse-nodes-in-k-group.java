@@ -15,25 +15,25 @@ class Solution {
         ListNode temp=head;
         while(temp!=null)
         {
-            countNodes++;
             temp=temp.next;
+            countNodes++;
         }
         if(countNodes<k) return head;
-        int count=0;
         ListNode prev=null;
         ListNode curr=head;
         ListNode next=head;
+        int count=0;
         while(curr!=null && count<k)
         {
-            curr=next;
             next=curr.next;
             curr.next=prev;
             prev=curr;
+            curr=next;
             count++;
         }
-        if(next!=null)
+        if(curr!=null)
         {
-            head.next=reverseKGroup(next,k);
+            head.next=reverseKGroup(curr,k);
         }
         return prev;
     }
