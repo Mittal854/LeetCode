@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mittal854/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Mittal854/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mittal854/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Mittal854/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Mittal854/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mittal854/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Mittal854/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Mittal854/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Mittal854/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Mittal854/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Mittal854/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mittal854/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Mittal854/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Mittal854/LeetCode/tree/master/1013-fibonacci-number) |
@@ -1203,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mittal854/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mittal854/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Mittal854/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Mittal854/LeetCode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Mittal854/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mittal854/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
