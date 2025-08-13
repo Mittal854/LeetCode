@@ -1,44 +1,43 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
-        int length = arr.length;
-        int[] left = new int[length];
-        int[] right = new int[length];
-      
-        Arrays.fill(left, -1);
-        Arrays.fill(right, length);
-      
-        Deque<Integer> stack = new ArrayDeque<>();
-      
-        for (int i = 0; i < length; ++i) {
-            while (!stack.isEmpty() && arr[stack.peek()] >= arr[i]) {
-                stack.pop();
+        int n=arr.length;
+        int[] left=new int[n];
+        int[] right=new int[n];
+        Arrays.fill(left,-1);
+        Arrays.fill(right,n);
+        Stack<Integer>st=new Stack<>();
+        for(int i=0;i<n;i++)
+        {
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i])
+            {
+                st.pop();
             }
-            if (!stack.isEmpty()) {
-                left[i] = stack.peek();
+            if(!st.isEmpty())
+            {
+                left[i]=st.peek();
             }
-            stack.push(i);
+            st.push(i);
         }
-      
-        stack.clear();
-      
-        for (int i = length - 1; i >= 0; --i) {
-            while (!stack.isEmpty() && arr[stack.peek()] > arr[i]) {
-                stack.pop();
+        st.clear();
+        for(int i=n-1;i>=0;i--)
+        {
+            while(!st.isEmpty() && arr[st.peek()]>arr[i])
+            {
+                st.pop();
             }
-            if (!stack.isEmpty()) {
-                right[i] = stack.peek();
+            if(!st.isEmpty())
+            {
+                right[i]=st.peek();
             }
-            stack.push(i);
+            st.push(i);
         }
-      
-        int mod = (int) 1e9 + 7;
-        long answer = 0;
-      
-        for (int i = 0; i < length; ++i) {
-            answer += (long) (i - left[i]) * (right[i] - i) % mod * arr[i] % mod;
-            answer %= mod;
+        long ans=0;
+        int mod=1_000_000_007;
+        for(int i=0;i<n;i++)
+        {
+            ans+=(long)(i-left[i])*(right[i]-i)%mod*arr[i]%mod;
+            ans=ans%mod;
         }
-      
-        return (int) answer;
+        return (int)ans;
     }
 }
